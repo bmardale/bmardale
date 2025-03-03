@@ -9,9 +9,6 @@ A **solo developer** passionate about **self-hosting, security, privacy, and sca
 - **Database:** PostgreSQL, Sqlc  
 - **OS:** Linux enthusiast, self-hosting everything possible
 
-### 📌 Projects  
-- 🚀 Working on a **Laravel-based billing & VM management panel**  
-- 🔒 Building an **end-to-end encrypted note-sharing system**  
 
 ### 📊 GitHub Stats  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bmardale&layout=compact&theme=tokyonight)  
