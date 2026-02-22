@@ -1,17 +1,14 @@
-# 👋 Hi, I'm Bogdan Mardale
+```lua
+-- ~/whoami
+local bogdan = {
+  role      = "CS student",
+  school    = "Politehnica University of Bucharest (FILS)",
+  location  = "Bucharest, RO",
 
-I'm a **CS student** at the **Faculty of Engineering in Foreign Languages, Polytechnic University of Bucharest**.  
-A **solo developer** passionate about **self-hosting, security, privacy, and scalable web solutions**.  
+  focus     = "backend systems & APIs",
 
-### 🛠 Tech Stack  
-- **Backend:** Go, Laravel, FastAPI 
-- **Frontend:** React, Svelte
-- **Database:** PostgreSQL, Sqlc  
-- **OS:** Linux enthusiast, self-hosting everything possible
-
-
-### 📊 GitHub Stats  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bmardale&layout=compact&theme=tokyonight)  
-<!--- - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... --->
-
+  stack     = { "Go", "TypeScript", "PHP" },
+  backend   = { "Elysia", "Hono", "Fastify", "Express", "Laravel" },
+  frontend  = { "React", "Svelte" },
+}
+```
