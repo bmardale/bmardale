@@ -10,5 +10,6 @@ local bogdan = {
   stack     = { "Go", "TypeScript", "PHP" },
   backend   = { "Elysia", "Hono", "Fastify", "Express", "Laravel" },
   frontend  = { "React", "Svelte" },
+  site      = "https://b5.nu",
 }
 ```
